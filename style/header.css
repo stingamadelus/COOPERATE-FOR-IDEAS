@@ -1,0 +1,19 @@
+header {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  border: 0;
+  padding: 35vh 5% 35vh 5%;
+  background-color: black;
+  background-image: url('../images/background/header.jpg');
+  background-position: bottom;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  text-shadow: 0.5px 0.5px 2px black;
+}
+
+header a.custom-button {
+  box-shadow: 0.5px 0.5px 2px black;
+}
